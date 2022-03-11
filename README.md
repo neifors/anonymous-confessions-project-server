@@ -27,7 +27,7 @@ We were asked to create a website where users should be able to post journal ent
 	- Building endpoints and functionality. All the urls and behaviors the client needs to communicate with the server (GET, POST and DELETE methods).
 	- Creating really simple clients to play around with the server and checking the post and delete methods mostly.
 	- Testing by using **jest** and **supertest** *(A library for testing node.js HTTP servers)*
-	- Deployed on c
+	- Deployed on [Heroku](https://www.heroku.com/what)
 
 - Client:
 	- Initially started with a design concept created on figma
